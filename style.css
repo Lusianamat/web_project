@@ -1,0 +1,28 @@
+h1{
+	color: purple;
+}
+body{
+	background: #e5cdff;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: realtive;
+	top: 0;
+	background: #f3e7ff;
+
+}
+li{
+	float: left;
+}
+
+li a{
+	color: black;
+}
+
+li a:hover{
+	color: purple;
+	background-color: white;
+}
